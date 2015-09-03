@@ -1,0 +1,13 @@
+package com.rd.factory.extra;
+
+import com.rd.factory.Pizza;
+import com.rd.factory.Toppings;
+
+public class NYStylePepperoniPizza extends Pizza{
+
+	public NYStylePepperoniPizza(Toppings t) {
+		super(t);
+		// TODO Auto-generated constructor stub
+	}
+
+}
